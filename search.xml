@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>常用指令</title>
+      <link href="/2022/09/09/Hexo%E6%8C%87%E4%BB%A4/"/>
+      <url>/2022/09/09/Hexo%E6%8C%87%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<p>hexo n “xxx”      新建文章<br>hexo n page “xxx”     新建页面<br>hexo g      生成静态页面至public目录<br>hexo s      启动服务预览<br>hexo d      部署到github<br>hexo help       查看帮助<br>hexo version        查看hexo的版本<br>hexo clean      清除指令</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>常用浏览器扩展</title>
+      <link href="/2022/09/09/%E5%B8%B8%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/"/>
+      <url>/2022/09/09/%E5%B8%B8%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/</url>
+      
+        <content type="html"><![CDATA[<p>扩展名：Adblock Plus<br>作用：拦截页面上的广告<br>下载地址：<a href="https://adblockplus.org/zh_CN/">https://adblockplus.org/zh_CN/</a><br><img src="/../img/AdblockPlus.jpg" alt="这是图片" title="Adblock Plus"></p><p>扩展名：iTab新标签页<br>作用：创建和编辑属于您自己的浏览器标签页<br>下载地址：<a href="https://www.itab.link/">https://www.itab.link/</a><br><img src="/../img/itab.jpg" alt="这是图片" title="iTab"></p><p>扩展名：uBlock Origin<br>作用；屏蔽页面广告<br>下载地址：<a href="https://ublock.org/">https://ublock.org/</a><br>使用前：<br><img src="/../img/uBlock%20Origin%20Before.jpg" alt="这是图片" title="uBlock Origin"><br>使用后：<br><img src="/../img/uBlock%20Origin%20After.jpg" alt="这是图片" title="uBlock Origin"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/09/09/hello-world/"/>
+      <url>/2022/09/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
